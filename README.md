@@ -1,12 +1,4 @@
-<p align="center">
-  <img height=150 src="https://user-images.githubusercontent.com/46785798/59916991-7bf64400-9442-11e9-928e-2597a4075c84.png">
-
-</p>
-
 # Welcome to this SQL Repository 
-
-## Repository Description: 
-This repository contains SQL queries from various popular online learning resources e.g. `SQLZoo`, `Vertabelo Academy` etc. <br/> <br/>
 
 > ### [SQL-Zoo](https://sqlzoo.net/):
 
@@ -42,16 +34,7 @@ This repository contains SQL queries from various popular online learning resour
 
 
 
-
-
-
-
 > #### __More Details (Questions & Solutions) of all Sections: `SQL-Zoo`__ -
-
-<p align="center">
-  <img height=150 src="https://user-images.githubusercontent.com/46785798/59932267-9f33ea00-9468-11e9-8034-38173e9d58f7.png">
-
-</p>
 
 
 #### _[`0 SELECT basics`](https://github.com/ybg345/SQL/tree/master/SQL-Zoo/0_SQL%20Basics) section_:
@@ -334,9 +317,6 @@ This repository contains SQL queries from various popular online learning resour
 <br/><br/><br/><br/><br/><br/><br/>
 
 > #### __More Details (Questions & Solutions) of different Sections: `Vertabelo Academy`__ -
-
-<p align="center">
-  <img height=150 src="https://user-images.githubusercontent.com/46785798/59940241-08712880-947c-11e9-8a53-e80b774cb1a7.jpg">
 
 </p>
 
